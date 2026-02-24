@@ -1,6 +1,6 @@
-# gdgoc konkuk compiled vs interpreted presentation
+# GDGoC Konkuk compiled vs interpreted 발표
 
-![first-page](./image.png)
+![first-page|200](./image.png)
 
 GDGoC Konkuk 2025년 하반기 세션 발표자료입니다.
 
