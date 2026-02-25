@@ -1,8 +1,9 @@
-# gdgoc konkuk compiled vs interpreted presentation
+# GDGoC Konkuk compiled vs interpreted 발표
 
-![first-page](./image.png)
+![first-page](./image.jpg)
 
-GDGoC Konkuk 2025년 하반기 세션 발표자료입니다.
+GDGoC Konkuk 2025년 하반기 세션 발표자료입니다.  
+레포지터리 최상단에 슬라이드 파일이 업로드 되어있습니다.
 
 - 주제: 왜 컴파일 언어는 빠르고 인터프리터 언어는 느릴까?  
 - 일시: 2025년 12월 2일  
